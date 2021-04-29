@@ -1,0 +1,14 @@
+- spring过滤器和拦截器的区别 *
+- spring 注入方式哪些
+- bean的scope有哪些，作用域
+- bean的生命周期，简单说一说 *
+- beanname如何注解命名
+- autowied resource 注解注入的区别
+- 什么时候用编程式注解，声明式注解
+- Spring事务情况下不生效？ *
+- 如何解决本类调用事务不生效问题 
+- spring的事务传播行为有哪些 *
+- 事务A调用事务B，如何让事务A和事务B单独提交事务,事务B如何设置只回滚，不提交
+- 用aop实现spring多数据源配置，读写分离
+- spring beanFactory 和 factoryBean的区别
+- Spring 如何解决循环依赖问题的 *
